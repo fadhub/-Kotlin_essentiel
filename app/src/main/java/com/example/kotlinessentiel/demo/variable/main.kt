@@ -1,4 +1,4 @@
-package com.example.kotlinessentiel.demo
+package com.example.kotlinessentiel.demo.variable
 
 //Fonction levelLabel
 fun levelLabel(count: Int): String = when {

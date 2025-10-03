@@ -1,4 +1,4 @@
-package com.example.kotlinessentiel.demo
+package com.example.kotlinessentiel.demo.variable
 
 fun main() {
     val appName = "HelloCounter"
